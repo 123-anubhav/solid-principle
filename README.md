@@ -1,8 +1,6 @@
 # solid-principle
 solid principle 
 
-Here’s your content neatly decorated in **Markdown (.md)** format so you can directly save it as `OOPS_SOLID_Principles.md`:
-
 ---
 
 ````markdown
